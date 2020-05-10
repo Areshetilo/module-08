@@ -65,12 +65,12 @@ img {
 .nav-btn {
   font-family: var(--ff-main);
   font-size: 1.4rem;
-  font-weight: 700;
   margin-bottom: 115px;
 }
 .nav-btn__item {
   color: #ffffff;
   padding: 12px 18px;
+  font-weight: 700;
 }
 .sign-up {
   border: 2px solid #ffffff;
