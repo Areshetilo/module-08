@@ -29,6 +29,10 @@
   .secondary-media {
     max-width: 492px;
   }
+  .partners {
+    padding-left: 0;
+    padding-right: 0;
+  }
   .partners-list {
     display: flex;
     flex-wrap: wrap;
