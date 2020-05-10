@@ -3,6 +3,7 @@
     background-image: url(../img/bg-940w.png);
     padding-left: 48px;
     padding-right: 48px;
+    padding-bottom: 234px;
   }
   .nav-btn {
     order: 2;
@@ -47,33 +48,37 @@
   .partners-btn {
     width: 194px;
   }
+  .nav-btn {
+    margin-bottom: 0px;
+  }
+  .navigation {
+    margin-bottom: 150px;
+  }
+  .promo-description {
+    margin-bottom: 35px;
+  }
+  .promo-title {
+    margin-bottom: 40px;
+  }
 }
 @media (min-width: 1000px) {
   .main-head {
     background-image: url(../img/bg-1440w.png);
     padding-left: 0px;
     padding-right: 0px;
-    padding-bottom: 234px;
     padding-top: 38px;
   }
   .container {
     max-width: 940px;
   }
-  .nav-btn {
-    margin-bottom: 0px;
-  }
   .navigation {
     margin-bottom: 160px;
   }
-  .promo-title {
-    margin-bottom: 40px;
-  }
+
   .secondary-media {
     max-width: 940px;
   }
-  .promo-description {
-    margin-bottom: 35px;
-  }
+
   .partners {
     padding-top: 70px;
     padding-bottom: 74px;
